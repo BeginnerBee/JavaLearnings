@@ -2,12 +2,13 @@ package week01.aufgaben.aufgabe4;
 
 import java.util.Arrays;
 import java.util.Random;
+import java.util.function.DoubleBinaryOperator;
 
 public class Statistics {
     public static void main(String[] args) {
         double[] series = randomSeries(10000);
         // implement statistical analysis
-		Arrays.sort(series);
+        Arrays.sort(series);
         System.out.println("Minimum / maximum: " + series[0] + " / " + series[series.length - 1]);
         System.out.println("Arithmetic average: " + arithmeticAverage(series));
         System.out.println("Variance: " + variance(series));
@@ -24,9 +25,7 @@ public class Statistics {
     }
 
     static double arithmeticAverage(double[] pSeries) {
-        double sum = 0;
-        for (double d : pSeries)
-            sum += d;
+        double sum = Arrays.stream(pSeries).reduce(0, (subTotal, item) -> subTotal + item);
         return sum / pSeries.length;
     }
 

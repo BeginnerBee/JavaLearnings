@@ -4,8 +4,8 @@ import java.util.List;
 
 public class BundleItem extends Item {
 
-    private int discount;
-    private List<Item> items;
+    public int discount;
+    public List<Item> items;
 
     public BundleItem(String label, List<Item> items, int discount) {
         super(label);
@@ -29,6 +29,6 @@ public class BundleItem extends Item {
             System.out.print("\t\t");
             item.print();
         }
-        System.out.println(getPrice() + " <-- " + discount + "% " + getDescription());
     }
+
 }

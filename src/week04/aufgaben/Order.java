@@ -1,5 +1,6 @@
 package week04.aufgaben;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Order {
@@ -19,6 +20,7 @@ public class Order {
     }
 
     public void printItems() {
-        items.forEach(s->s.print());
+        items.forEach((Item s)->s.print());
     }
+
 }

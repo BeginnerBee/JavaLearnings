@@ -5,9 +5,9 @@ public class ProductItem extends Item {
     private double pricePerUnit;
     private int amount;
 
-    public ProductItem(String desc, double pricePerUnit, int amount) {
+    public ProductItem(String desc, double p, int amount) {
         super(desc);
-        this.pricePerUnit = pricePerUnit;
+        pricePerUnit = p;
         this.amount = amount;
     }
 
@@ -18,7 +18,6 @@ public class ProductItem extends Item {
 
     @Override
     public void print() {
-        System.out.println(getPrice() + " --> (" + pricePerUnit + " * " + amount + ") " + getDescription());
+        System.out.println(getPrice() + " --> (" + pricePerUnit + " * " + amount + ") " + getDescription() );
     }
-
 }
