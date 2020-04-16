@@ -25,7 +25,8 @@ public class Drawing {
     public void move(int deltaX, int deltaY) {
         v.clear();
         for (Shape s : shapes) {
-            s.move(deltaX, deltaY).draw(v);
+            s.move(deltaX, deltaY);
+            s.draw(v);
         }
 
     }

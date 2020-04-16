@@ -3,12 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d5b4ca39-0df2-4166-9b51-c152c2235623" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe01/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe01/Drawing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe01/GraphicItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/GraphicItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe01/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe01/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe01/TextBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/TextBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe02/Drawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe02/Drawing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe02/GraphicItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe02/GraphicItem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +66,7 @@
       <recent name="C:\Users\User2\Documents\JavaLearnings\src\week05\aufgaben\aufgabe03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
+  <component name="RunManager" selected="Application.Test (3)">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week05.aufgaben.aufgabe03.Test" />
       <module name="JavaLearnings" />
@@ -138,8 +134,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (4)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
@@ -192,22 +188,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="86" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585729100311" />
-    <state width="1237" height="122" key="GridCell.Tab.0.bottom" timestamp="1587064820421">
+    <state width="1237" height="122" key="GridCell.Tab.0.bottom" timestamp="1587065162836">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="122" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587064820421" />
-    <state width="1237" height="122" key="GridCell.Tab.0.center" timestamp="1587064820421">
+    <state width="1237" height="122" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587065162836" />
+    <state width="1237" height="122" key="GridCell.Tab.0.center" timestamp="1587065162836">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="122" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587064820421" />
-    <state width="1237" height="122" key="GridCell.Tab.0.left" timestamp="1587064820420">
+    <state width="1237" height="122" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587065162836" />
+    <state width="1237" height="122" key="GridCell.Tab.0.left" timestamp="1587065162835">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="122" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587064820420" />
-    <state width="1237" height="122" key="GridCell.Tab.0.right" timestamp="1587064820421">
+    <state width="1237" height="122" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587065162835" />
+    <state width="1237" height="122" key="GridCell.Tab.0.right" timestamp="1587065162836">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="122" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587064820421" />
+    <state width="1237" height="122" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587065162836" />
     <state width="1237" height="159" key="GridCell.Tab.1.bottom" timestamp="1586973815381">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

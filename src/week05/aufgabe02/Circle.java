@@ -42,10 +42,9 @@ public class Circle implements Shape {
     }
 
     @Override
-    public Shape move(int x, int y) {
+    public void move(int x, int y) {
         this.x = x;
         this.y = y;
-        return this;
     }
 
 }
