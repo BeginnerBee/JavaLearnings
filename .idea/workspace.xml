@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5b4ca39-0df2-4166-9b51-c152c2235623" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe04/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe04/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe04/Drawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe04/Drawing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe04/GraphicItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe04/GraphicItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe04/NiceColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe04/NiceColors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe04/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe04/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe04/NiceColors.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
