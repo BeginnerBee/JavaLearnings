@@ -13,7 +13,6 @@ public class TextBox extends Rectangle implements Text {
         this.textColor = textColor;
     }
 
-
     @Override
     public String getText() {
         return text;
@@ -22,12 +21,6 @@ public class TextBox extends Rectangle implements Text {
     @Override
     public int getTextColor() {
         return textColor;
-    }
-
-    @Override
-    public void draw(Visualization visualization) {
-        super.draw(visualization);
-        visualization.drawText(super.getX(), super.getY(),  getText(), getTextColor());
     }
 
 }

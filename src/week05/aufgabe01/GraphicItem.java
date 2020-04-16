@@ -9,6 +9,6 @@ public interface GraphicItem {
     int getY();
 
     /*Changes the position on the x and y axes*/
-    Shape move(int x, int y);
+    void move(int x, int y);
 
 }

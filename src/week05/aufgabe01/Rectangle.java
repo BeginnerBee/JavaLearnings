@@ -40,11 +40,6 @@ public class Rectangle implements Shape {
     }
 
     @Override
-    public void draw(Visualization visualization) {
-        visualization.drawRectangle(left, top, width, height, color);
-    }
-
-    @Override
     public int getX() {
         return left;
     }
@@ -55,9 +50,8 @@ public class Rectangle implements Shape {
     }
 
     @Override
-    public Shape move(int x, int y) {
-        this.left = x;
-        this.top = y;
-        return this;
+    public void move(int x, int y) {
+        left = x;
+        top = y;
     }
 }

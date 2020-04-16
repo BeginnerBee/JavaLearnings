@@ -2,154 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5b4ca39-0df2-4166-9b51-c152c2235623" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe02/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe02/Drawing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe02/GraphicItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe02/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe02/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe02/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe02/Text.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe02/TextBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe02/Visualization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe03/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe03/_ClassDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe04/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe04/Drawing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe04/GraphicItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe04/NiceColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe04/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe04/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe04/Size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe04/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe04/Text.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe04/TextBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe04/Visualization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe04/_ClassDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe05/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe05/Drawing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe05/GraphicItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe05/NiceColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe05/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe05/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe05/Size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe05/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe05/Text.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe05/TextBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe05/Visualization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/aufgabe05/_ClassDiagram.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week01/aufgaben/aufgabe1/DoubleFactorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week01/aufgaben/aufgabe2/PrimeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week01/aufgaben/aufgabe3/Eratosthenes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week01/aufgaben/aufgabe4/Erwartete_Resultate.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week01/aufgaben/aufgabe4/Statistics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week01/aufgaben/aufgabe5/src/ImageProcessing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week01/aufgaben/aufgabe5/src/ImageViewer$ImageFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week01/aufgaben/aufgabe5/src/ImageViewer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week01/aufgaben/aufgabe6/ArithmeticOperations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week02/aufgaben/ArrayFunktionen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week02/aufgaben/Aufgabe3/RecursiveSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week02/aufgaben/Aufgabe4/Labyrinth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week02/aufgaben/Aufgabe4/Lösung-zum-Überprüfen.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week02/aufgaben/RekursiveDoppelfakultät.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week02/aufgaben/VarargsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week02/aufgaben/WortGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week03/aufgaben/aufgabe04/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week03/aufgaben/aufgabe04/BankCustomer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week03/aufgaben/aufgabe04/BankManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week03/aufgaben/aufgabe04/Start.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week03/aufgaben/aufgabe05/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week03/aufgaben/aufgabe05/RectangleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week03/aufgaben/aufgabe06/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week03/aufgaben/aufgabe07/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week03/aufgaben/aufgabe07/Locomotive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week03/aufgaben/aufgabe07/Train.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week04/aufgaben/BundleItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week04/aufgaben/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week04/aufgaben/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week04/aufgaben/ProductItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week04/aufgaben/ServiceItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week04/aufgaben/StartAufgabe01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week04/aufgaben/StartAufgabe02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe01/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe01/Drawing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe01/GraphicItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe01/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe01/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe01/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe01/Text.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe01/TextBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe01/Visualization$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe01/Visualization$Figure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe01/Visualization.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe01/_ClassDiagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe03/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe03/Drawing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe03/GraphicItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe03/NiceColors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe03/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe03/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe03/Size.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe03/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe03/Text.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe03/TextBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe03/Visualization$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe03/Visualization$Figure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgaben/aufgabe03/Visualization.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week01/aufgaben/aufgabe1/DoubleFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week01/aufgabe1/DoubleFactorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week01/aufgaben/aufgabe2/PrimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week01/aufgabe2/PrimeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week01/aufgaben/aufgabe3/Eratosthenes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week01/aufgabe3/Eratosthenes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week01/aufgaben/aufgabe4/Erwartete_Resultate.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/week01/aufgabe4/Erwartete_Resultate.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week01/aufgaben/aufgabe4/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week01/aufgabe4/Statistics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week01/aufgaben/aufgabe5/src/ImageProcessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week01/aufgabe5/src/ImageProcessing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week01/aufgaben/aufgabe5/src/ImageViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week01/aufgabe5/src/ImageViewer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week01/aufgaben/aufgabe6/ArithmeticOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week01/aufgabe6/ArithmeticOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week02/aufgaben/ArrayFunktionen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week02/ArrayFunktionen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week02/aufgaben/Aufgabe3/RecursiveSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week02/Aufgabe3/RecursiveSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week02/aufgaben/Aufgabe4/Labyrinth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week02/Aufgabe4/Labyrinth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week02/aufgaben/Aufgabe4/Lösung-zum-Überprüfen.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/week02/Aufgabe4/Lösung-zum-Überprüfen.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week02/aufgaben/RekursiveDoppelfakultät.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week02/RekursiveDoppelfakultät.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week02/aufgaben/VarargsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week02/VarargsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week02/aufgaben/WortGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week02/WortGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week03/aufgaben/aufgabe04/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week03/aufgabe04/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week03/aufgaben/aufgabe04/BankCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week03/aufgabe04/BankCustomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week03/aufgaben/aufgabe04/BankManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week03/aufgabe04/BankManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week03/aufgaben/aufgabe04/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week03/aufgabe04/Start.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week03/aufgaben/aufgabe05/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week03/aufgabe05/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week03/aufgaben/aufgabe05/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week03/aufgabe05/RectangleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week03/aufgaben/aufgabe06/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week03/aufgabe06/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week03/aufgaben/aufgabe07/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week03/aufgabe07/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week03/aufgaben/aufgabe07/Locomotive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week03/aufgabe07/Locomotive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week03/aufgaben/aufgabe07/Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week03/aufgabe07/Train.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week04/aufgaben/BundleItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week04/BundleItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week04/aufgaben/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week04/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week04/aufgaben/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week04/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week04/aufgaben/ProductItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week04/ProductItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week04/aufgaben/ServiceItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week04/ServiceItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week04/aufgaben/StartAufgabe01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week04/StartAufgabe01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week04/aufgaben/StartAufgabe02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week04/StartAufgabe02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe01/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe01/Drawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/Drawing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe01/GraphicItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/GraphicItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe01/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe01/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe01/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe01/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/Text.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe01/TextBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/TextBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe01/Visualization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/Visualization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe01/_ClassDiagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/_ClassDiagram.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe03/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe03/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe03/Drawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe03/Drawing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe03/GraphicItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe03/GraphicItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe03/NiceColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe03/NiceColors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe03/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe03/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe03/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe03/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe03/Size.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe03/Size.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe03/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe03/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe03/Text.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe03/TextBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe03/TextBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe03/Visualization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe03/Visualization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgaben/aufgabe03/_ClassDiagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe02/_ClassDiagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe01/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe01/Drawing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe01/GraphicItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/GraphicItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe01/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe01/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe01/TextBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe01/TextBox.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +70,7 @@
       <recent name="C:\Users\User2\Documents\JavaLearnings\src\week05\aufgaben\aufgabe03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test (4)">
+  <component name="RunManager" selected="Application.Test (2)">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week05.aufgaben.aufgabe03.Test" />
       <module name="JavaLearnings" />
@@ -279,9 +138,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (4)" />
-        <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.Test (4)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
       </list>
@@ -333,22 +192,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="86" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585729100311" />
-    <state width="1237" height="270" key="GridCell.Tab.0.bottom" timestamp="1587023326961">
+    <state width="1237" height="122" key="GridCell.Tab.0.bottom" timestamp="1587064820421">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="270" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587023326961" />
-    <state width="1237" height="270" key="GridCell.Tab.0.center" timestamp="1587023326961">
+    <state width="1237" height="122" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587064820421" />
+    <state width="1237" height="122" key="GridCell.Tab.0.center" timestamp="1587064820421">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="270" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587023326961" />
-    <state width="1237" height="270" key="GridCell.Tab.0.left" timestamp="1587023326961">
+    <state width="1237" height="122" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587064820421" />
+    <state width="1237" height="122" key="GridCell.Tab.0.left" timestamp="1587064820420">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="270" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587023326961" />
-    <state width="1237" height="270" key="GridCell.Tab.0.right" timestamp="1587023326961">
+    <state width="1237" height="122" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587064820420" />
+    <state width="1237" height="122" key="GridCell.Tab.0.right" timestamp="1587064820421">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="270" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587023326961" />
+    <state width="1237" height="122" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587064820421" />
     <state width="1237" height="159" key="GridCell.Tab.1.bottom" timestamp="1586973815381">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

@@ -27,11 +27,6 @@ public class Circle implements Shape {
     }
 
     @Override
-    public void draw(Visualization v) {
-        v.drawCircle(x, y, radius, color);
-    }
-
-    @Override
     public int getX() {
         return x;
     }
@@ -42,10 +37,9 @@ public class Circle implements Shape {
     }
 
     @Override
-    public Shape move(int x, int y) {
+    public void move(int x, int y) {
         this.x = x;
         this.y = y;
-        return this;
     }
 
 }
