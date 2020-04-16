@@ -1,6 +1,5 @@
 package week05.aufgabe04;
 
-
 import java.awt.*;
 
 /*
@@ -9,10 +8,10 @@ calling the draw () method. The following methods are to be implemented:
 */
 public class Drawing {
 
-    private week05.aufgabe04.Shape[] shapes;
+    private Shape[] shapes;
     public static Visualization v = new Visualization();
 
-    public Drawing(week05.aufgabe04.Shape[] shapes) {
+    public Drawing(Shape[] shapes) {
         this.shapes = shapes;
     }
 
@@ -26,8 +25,9 @@ public class Drawing {
     /* Move all figures around deltaX on the x-axis and deltaY on the y-axis */
     public void move(Point deltaPoint) {
         v.clear();
-        for (week05.aufgabe04.Shape s : shapes) {
-            s.move(deltaPoint).draw(v);
+        for (Shape s : shapes) {
+            s.move(deltaPoint);
+            s.draw(v);
         }
 
     }
