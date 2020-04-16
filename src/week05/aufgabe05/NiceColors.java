@@ -1,7 +1,7 @@
 package week05.aufgabe05;
 
 public enum NiceColors {
-    BLUE(1),
+    BLUE(0x1f497d),
     RED(0xc0504d),
     GREEN(0x9bbb59),
     ORANGE(0xf79646),

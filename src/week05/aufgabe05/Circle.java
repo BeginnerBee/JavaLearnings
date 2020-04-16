@@ -33,10 +33,9 @@ public class Circle implements Shape {
 
 
     @Override
-    public Shape move(Point p) {
+    public void move(Point p) {
         point.x = p.x;
         point.y = p.y;
-        return this;
     }
 
     @Override

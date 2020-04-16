@@ -8,11 +8,12 @@ public interface GraphicItem {
     Point getPoint();
 
     /*Changes the position on the x and y axes*/
-    Shape move(Point point);
+    void move(Point point);
 
     /*Moves the graphic to position 0/0.*/
     default void moveToCenter(Shape shape, Visualization v) {
-        shape.move(new Point(0,0)).draw(v);
+        shape.move(new Point(0,0));
+        shape.draw(v);
     }
 
     /*Checks whether the graphic is at position 0/0.*/
