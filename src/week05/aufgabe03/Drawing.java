@@ -27,7 +27,8 @@ public class Drawing {
     public void move(Point deltaPoint) {
         v.clear();
         for (Shape s : shapes) {
-            s.move(deltaPoint).draw(v);
+            s.move(deltaPoint);
+            s.draw(v);
         }
 
     }
@@ -41,24 +42,4 @@ public class Drawing {
             }
         }
     }
-
-    void moveCenter() {
-        v.clear();
-        for (Shape s : shapes) {
-            s.moveToCenter(s, v);
-        }
-    }
-
-    void isCenter(){
-        for (Shape s : shapes) {
-            System.out.println(s.getClass().getSimpleName() + ": " + s.isInCenter());
-        }
-    }
-
-    void getColor(){
-        for (Shape s : shapes) {
-            System.out.println(s.getClass().getSimpleName() + ": " + s.getColor(s));
-        }
-    }
-
 }

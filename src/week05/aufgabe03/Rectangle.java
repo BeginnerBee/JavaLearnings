@@ -42,10 +42,9 @@ public class Rectangle implements Shape {
     }
 
     @Override
-    public Shape move(Point p) {
+    public void move(Point p) {
         point.x = p.x;
         point.y = p.y;
-        return this;
     }
 
     @Override
