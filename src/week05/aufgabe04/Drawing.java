@@ -45,7 +45,8 @@ public class Drawing {
     void moveCenter() {
         v.clear();
         for (week05.aufgabe04.Shape s : shapes) {
-            s.moveToCenter(s, v);
+            s.moveToCenter(s);
+            s.draw(v);
         }
     }
 

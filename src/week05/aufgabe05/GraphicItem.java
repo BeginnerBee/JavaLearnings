@@ -11,9 +11,8 @@ public interface GraphicItem {
     void move(Point point);
 
     /*Moves the graphic to position 0/0.*/
-    default void moveToCenter(Shape shape, Visualization v) {
+    default void moveToCenter(Shape shape) {
         shape.move(new Point(0,0));
-        shape.draw(v);
     }
 
     /*Checks whether the graphic is at position 0/0.*/
