@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5b4ca39-0df2-4166-9b51-c152c2235623" name="Default Changelist" comment="" />
+    <list default="true" id="d5b4ca39-0df2-4166-9b51-c152c2235623" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/META-INF/JavaLearnings.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgabe04/Drawing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgabe04/Drawing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgabe04/GraphicItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgabe04/GraphicItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week06/aufgabe01/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week06/aufgabe01/Stack.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,8 +43,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Lombok.Config" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/lombok-1.18.12.jar!/" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/random-person-0-2.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -62,7 +68,32 @@
       <recent name="C:\Users\User2\Documents\JavaLearnings\src\week05\aufgaben\aufgabe03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test (3)">
+  <component name="RunManager" selected="Application.Stack">
+    <configuration name="RandomPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deneme.RandomPerson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="deneme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week06.aufgabe01.Stack" />
+      <module name="JavaLearnings" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week06.aufgabe01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week05.aufgabe01.Test" />
       <module name="JavaLearnings" />
@@ -89,52 +120,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week05.aufgabe03.Test" />
+    <configuration name="TestAufgabe01.whenIllegalStackCapacityExceptionThrown_thenAssertionSucceeds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaLearnings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week05.aufgabe03.*" />
+          <option name="PATTERN" value="week06.aufgabe01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week05.aufgabe04.Test" />
-      <module name="JavaLearnings" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week05.aufgabe04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week05.aufgabe05.Test" />
-      <module name="JavaLearnings" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week05.aufgabe05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="week06.aufgabe01" />
+      <option name="MAIN_CLASS_NAME" value="week06.aufgabe01.TestAufgabe01" />
+      <option name="METHOD_NAME" value="whenIllegalStackCapacityExceptionThrown_thenAssertionSucceeds" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Stack" />
+        <item itemvalue="JUnit.TestAufgabe01.whenIllegalStackCapacityExceptionThrown_thenAssertionSucceeds" />
+        <item itemvalue="Application.RandomPerson" />
         <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test (5)" />
-        <item itemvalue="Application.Test (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -164,6 +172,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="2" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1586697533536" />
+    <state x="368" y="9" key="#RandomPerson" timestamp="1589337380297">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="368" y="9" key="#RandomPerson/0.0.1280.680@0.0.1280.680" timestamp="1589337380297" />
     <state x="446" y="42" key="#com.intellij.ide.util.MemberChooser" timestamp="1586894418836">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -180,26 +192,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="448" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1586806099604" />
-    <state x="421" y="86" key="FileChooserDialogImpl" timestamp="1589335763725">
+    <state x="421" y="86" key="FileChooserDialogImpl" timestamp="1589403223045">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="86" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589335763725" />
-    <state width="1237" height="122" key="GridCell.Tab.0.bottom" timestamp="1587197406252">
+    <state x="421" y="86" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589403223045" />
+    <state width="1237" height="178" key="GridCell.Tab.0.bottom" timestamp="1589403443972">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="122" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587197406252" />
-    <state width="1237" height="122" key="GridCell.Tab.0.center" timestamp="1587197406252">
+    <state width="1237" height="178" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589403443972" />
+    <state width="1237" height="178" key="GridCell.Tab.0.center" timestamp="1589403443972">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="122" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587197406252" />
-    <state width="1237" height="122" key="GridCell.Tab.0.left" timestamp="1587197406251">
+    <state width="1237" height="178" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589403443972" />
+    <state width="1237" height="178" key="GridCell.Tab.0.left" timestamp="1589403443972">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="122" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587197406251" />
-    <state width="1237" height="122" key="GridCell.Tab.0.right" timestamp="1587197406252">
+    <state width="1237" height="178" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589403443972" />
+    <state width="1237" height="178" key="GridCell.Tab.0.right" timestamp="1589403443972">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="122" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587197406252" />
+    <state width="1237" height="178" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589403443972" />
     <state width="1237" height="159" key="GridCell.Tab.1.bottom" timestamp="1586973815381">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -216,10 +228,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="159" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586973815381" />
-    <state x="144" y="0" key="SettingsEditor" timestamp="1589335820638">
+    <state x="144" y="0" key="SettingsEditor" timestamp="1589403227337">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589335820638" />
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589403227337" />
     <state x="306" y="108" width="741" height="483" key="com.intellij.ide.util.TipDialog" timestamp="1589334945631">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -232,14 +244,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="452" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1586630307197" />
-    <state x="114" y="0" key="new project wizard" timestamp="1585729043020">
+    <state x="114" y="0" key="new project wizard" timestamp="1589368955466">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="114" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1585729043020" />
-    <state x="297" y="151" key="run.anything.popup" timestamp="1587022468069">
+    <state x="114" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1589368955466" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1589392496594">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1587022468069" />
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1589392496594" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1587021071383">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

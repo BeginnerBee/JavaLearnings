@@ -24,5 +24,6 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="lombok-1.18.12" level="project" />
+    <orderEntry type="library" name="random-person-0-2" level="project" />
   </component>
 </module>
