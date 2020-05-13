@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5b4ca39-0df2-4166-9b51-c152c2235623" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe04/Drawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe04/Drawing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe04/GraphicItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe04/GraphicItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe05/Drawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe05/Drawing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week05/aufgabe05/GraphicItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week05/aufgabe05/GraphicItem.java" afterDir="false" />
-    </list>
+    <list default="true" id="d5b4ca39-0df2-4166-9b51-c152c2235623" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,8 +37,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Lombok.Config" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/week05/aufgabe05" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/lombok-1.18.12.jar!/" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -186,10 +180,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="448" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1586806099604" />
-    <state x="421" y="86" key="FileChooserDialogImpl" timestamp="1585729100311">
+    <state x="421" y="86" key="FileChooserDialogImpl" timestamp="1589335763725">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="86" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585729100311" />
+    <state x="421" y="86" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589335763725" />
     <state width="1237" height="122" key="GridCell.Tab.0.bottom" timestamp="1587197406252">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -222,18 +216,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="159" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586973815381" />
-    <state x="144" y="0" key="SettingsEditor" timestamp="1586240765908">
+    <state x="144" y="0" key="SettingsEditor" timestamp="1589335820638">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586240765908" />
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589335820638" />
     <state x="306" y="108" width="741" height="483" key="com.intellij.ide.util.TipDialog" timestamp="1589334945631">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="306" y="108" width="741" height="483" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589334945631" />
-    <state x="398" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589335093583">
+    <state x="398" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589335738984">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="398" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1589335093583" />
+    <state x="398" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1589335738984" />
     <state x="452" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586630307197">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
