@@ -35,16 +35,15 @@ public class BankAccount {
         return balance;
     }
 
-    public void transfer(BankAccount from, BankAccount to, int amount) throws TransactionException {
+    public void transfer(BankAccount from, BankAccount to, int amount) {
     	int fromBeforeTransactionBalance = from.balance;
-		int toBeforeTransactionBalance = from.balance;
+		int toBeforeTransactionBalance = to.balance;
         try {
             from.withdraw(amount);
             to.deposit(amount);
         } catch (LimitExceededException e) {
         	from.balance = fromBeforeTransactionBalance;
         	to.balance = toBeforeTransactionBalance;
-            throw new TransactionException("Transaction could not be completed.");
         }
     }
 }

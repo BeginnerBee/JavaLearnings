@@ -2,6 +2,7 @@ package week06.aufgabe01;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+
 import java.util.EmptyStackException;
 
 import static org.junit.jupiter.api.Assertions.assertThrows;
@@ -26,14 +27,10 @@ public class TestAufgabe01 {
     @Test
     public void whenStackIsFullExceptionThrown_thenAssertionSucceeds() {
         Exception exception = assertThrows(StackIsFullException.class, () -> {
-            try {
-                Stack s = new Stack(1);
-                s.push(1);
-                s.push(2);
-                s.push(3);
-            } catch (IllegalStackCapacityException e) {
-                System.out.println(e.fillInStackTrace());
-            }
+            Stack s = new Stack(1);
+            s.push(1);
+            s.push(2);
+            s.push(3);
         });
 
         String expectedMessage = "\n\tThere is no enough space";
@@ -45,12 +42,8 @@ public class TestAufgabe01 {
     @Test
     public void whenAddingNullObjectToStack_thenAssertionSucceeds() {
         Exception exception = assertThrows(NullPointerException.class, () -> {
-            try {
-                Stack s = new Stack(1);
-                s.push(null);
-            } catch (IllegalStackCapacityException e) {
-                System.out.println(e.fillInStackTrace());
-            }
+            Stack s = new Stack(1);
+            s.push(null);
         });
 
         String expectedMessage = "\n\tStack does not accept any null values.";
@@ -62,12 +55,8 @@ public class TestAufgabe01 {
     @Test
     public void whenPoppingObjectFromEmptyStack_thenAssertionSucceeds() {
         Exception exception = assertThrows(EmptyStackException.class, () -> {
-            try {
-                Stack s = new Stack(10);
-                s.pop();
-            } catch (IllegalStackCapacityException e) {
-                System.out.println(e.fillInStackTrace());
-            }
+            Stack s = new Stack(10);
+            s.pop();
         });
     }
 

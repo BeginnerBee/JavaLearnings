@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5b4ca39-0df2-4166-9b51-c152c2235623" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/week06/aufgabe01/Stack1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week06/aufgabe01/StackIsEmptyException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/META-INF/JavaLearnings.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgabe04/Drawing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgabe04/Drawing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgabe04/GraphicItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearnings/week05/aufgabe04/GraphicItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week06/aufgabe01/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week06/aufgabe01/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week06/aufgabe01/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearnings/week06/aufgabe01/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearnings/week06/aufgabe01/TestAufgabe01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearnings/week06/aufgabe01/TestAufgabe01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week06/aufgabe01/TestAufgabe01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week06/aufgabe01/TestAufgabe01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week06/aufgabe02/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week06/aufgabe02/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week06/aufgabe02/TestAufgabe02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week06/aufgabe02/TestAufgabe02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +23,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -37,7 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -50,13 +53,6 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User2\Documents\JavaLearnings\src\week05\aufgabe02\aufgabe02" />
-      <recent name="C:\Users\User2\Documents\JavaLearnings\src\week05\aufgabe01" />
-      <recent name="C:\Users\User2\Documents\JavaLearnings\src\week05\aufgaben\aufgabe01" />
-      <recent name="C:\Users\User2\Documents\JavaLearnings\src\week05\aufgaben" />
-      <recent name="C:\Users\User2\Documents\JavaLearnings\src\week03\aufgaben" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="week05.aufgaben" />
     </key>
@@ -67,70 +63,92 @@
       <recent name="C:\Users\User2\Documents\JavaLearnings\src\week05\aufgabe02" />
       <recent name="C:\Users\User2\Documents\JavaLearnings\src\week05\aufgaben\aufgabe03" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="week06.aufgabe01" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User2\Documents\JavaLearnings\src\week05\aufgabe02\aufgabe02" />
+      <recent name="C:\Users\User2\Documents\JavaLearnings\src\week05\aufgabe01" />
+      <recent name="C:\Users\User2\Documents\JavaLearnings\src\week05\aufgaben\aufgabe01" />
+      <recent name="C:\Users\User2\Documents\JavaLearnings\src\week05\aufgaben" />
+      <recent name="C:\Users\User2\Documents\JavaLearnings\src\week03\aufgaben" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Stack">
-    <configuration name="RandomPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deneme.RandomPerson" />
+  <component name="RunManager" selected="JUnit.TestAufgabe02">
+    <configuration name="TestAufgabe02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaLearnings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="deneme.*" />
+          <option name="PATTERN" value="week06.aufgabe02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="week06.aufgabe02" />
+      <option name="MAIN_CLASS_NAME" value="week06.aufgabe02.TestAufgabe02" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week06.aufgabe01.Stack" />
+    <configuration name="TestAufgabe02.whenNegativeDepositAmountEntered_thenAssertionSucceeds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaLearnings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week06.aufgabe01.*" />
+          <option name="PATTERN" value="week06.aufgabe02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="week06.aufgabe02" />
+      <option name="MAIN_CLASS_NAME" value="week06.aufgabe02.TestAufgabe02" />
+      <option name="METHOD_NAME" value="whenNegativeDepositAmountEntered_thenAssertionSucceeds" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week05.aufgabe01.Test" />
+    <configuration name="TestAufgabe02.whenNegativeWithdrawAmountEntered_thenAssertionSucceeds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaLearnings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week05.aufgabe01.*" />
+          <option name="PATTERN" value="week06.aufgabe02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="week06.aufgabe02" />
+      <option name="MAIN_CLASS_NAME" value="week06.aufgabe02.TestAufgabe02" />
+      <option name="METHOD_NAME" value="whenNegativeWithdrawAmountEntered_thenAssertionSucceeds" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week05.aufgabe02.Test" />
+    <configuration name="TestAufgabe02.whenTransactionExceptionThrown_LowerLimitViolationFromAccount_thenAssertionSucceeds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaLearnings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week05.aufgabe02.*" />
+          <option name="PATTERN" value="week06.aufgabe02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="week06.aufgabe02" />
+      <option name="MAIN_CLASS_NAME" value="week06.aufgabe02.TestAufgabe02" />
+      <option name="METHOD_NAME" value="whenTransactionExceptionThrown_LowerLimitViolationFromAccount_thenAssertionSucceeds" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAufgabe01.whenIllegalStackCapacityExceptionThrown_thenAssertionSucceeds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestAufgabe02.whenTransactionSucceeded_thenAssertionSucceeds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaLearnings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week06.aufgabe01.*" />
+          <option name="PATTERN" value="week06.aufgabe02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="week06.aufgabe01" />
-      <option name="MAIN_CLASS_NAME" value="week06.aufgabe01.TestAufgabe01" />
-      <option name="METHOD_NAME" value="whenIllegalStackCapacityExceptionThrown_thenAssertionSucceeds" />
+      <option name="PACKAGE_NAME" value="week06.aufgabe02" />
+      <option name="MAIN_CLASS_NAME" value="week06.aufgabe02.TestAufgabe02" />
+      <option name="METHOD_NAME" value="whenTransactionSucceeded_thenAssertionSucceeds" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Stack" />
-        <item itemvalue="JUnit.TestAufgabe01.whenIllegalStackCapacityExceptionThrown_thenAssertionSucceeds" />
-        <item itemvalue="Application.RandomPerson" />
-        <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="JUnit.TestAufgabe02" />
+        <item itemvalue="JUnit.TestAufgabe02.whenNegativeWithdrawAmountEntered_thenAssertionSucceeds" />
+        <item itemvalue="JUnit.TestAufgabe02.whenNegativeDepositAmountEntered_thenAssertionSucceeds" />
+        <item itemvalue="JUnit.TestAufgabe02.whenTransactionExceptionThrown_LowerLimitViolationFromAccount_thenAssertionSucceeds" />
+        <item itemvalue="JUnit.TestAufgabe02.whenTransactionSucceeded_thenAssertionSucceeds" />
       </list>
     </recent_temporary>
   </component>
@@ -176,18 +194,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="368" y="9" key="#RandomPerson/0.0.1280.680@0.0.1280.680" timestamp="1589337380297" />
-    <state x="446" y="42" key="#com.intellij.ide.util.MemberChooser" timestamp="1586894418836">
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1589583136506">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="42" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1586894418836" />
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1589583136506" />
+    <state x="446" y="42" key="#com.intellij.ide.util.MemberChooser" timestamp="1589472314769">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="42" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1589472314769" />
     <state x="443" y="253" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1586811462440">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="443" y="253" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.680@0.0.1280.680" timestamp="1586811462440" />
-    <state x="283" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586894283730">
+    <state x="283" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589405529369">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="283" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1586894283730" />
+    <state x="283" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1589405529369" />
     <state width="448" height="466" key="DebuggerActiveHint" timestamp="1586806099604">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -196,22 +218,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="86" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589403223045" />
-    <state width="1237" height="178" key="GridCell.Tab.0.bottom" timestamp="1589403443972">
+    <state width="1237" height="180" key="GridCell.Tab.0.bottom" timestamp="1589584189122">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="178" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589403443972" />
-    <state width="1237" height="178" key="GridCell.Tab.0.center" timestamp="1589403443972">
+    <state width="1237" height="180" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589584189122" />
+    <state width="1237" height="180" key="GridCell.Tab.0.center" timestamp="1589584189122">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="178" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589403443972" />
-    <state width="1237" height="178" key="GridCell.Tab.0.left" timestamp="1589403443972">
+    <state width="1237" height="180" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589584189122" />
+    <state width="1237" height="180" key="GridCell.Tab.0.left" timestamp="1589584189122">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="178" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589403443972" />
-    <state width="1237" height="178" key="GridCell.Tab.0.right" timestamp="1589403443972">
+    <state width="1237" height="180" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589584189122" />
+    <state width="1237" height="180" key="GridCell.Tab.0.right" timestamp="1589584189122">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="178" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589403443972" />
+    <state width="1237" height="180" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589584189122" />
     <state width="1237" height="159" key="GridCell.Tab.1.bottom" timestamp="1586973815381">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -228,18 +250,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="159" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586973815381" />
-    <state x="144" y="0" key="SettingsEditor" timestamp="1589403227337">
+    <state x="144" y="0" key="SettingsEditor" timestamp="1589584117000">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589403227337" />
-    <state x="306" y="108" width="741" height="483" key="com.intellij.ide.util.TipDialog" timestamp="1589334945631">
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589584117000" />
+    <state x="306" y="108" width="741" height="483" key="com.intellij.ide.util.TipDialog" timestamp="1589577154374">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="306" y="108" width="741" height="483" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589334945631" />
-    <state x="398" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589335738984">
+    <state x="306" y="108" width="741" height="483" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589577154374" />
+    <state x="398" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589472914425">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="398" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1589335738984" />
+    <state x="398" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1589472914425" />
     <state x="452" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586630307197">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -248,14 +270,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="114" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1589368955466" />
-    <state x="297" y="151" key="run.anything.popup" timestamp="1589392496594">
+    <state x="297" y="151" key="run.anything.popup" timestamp="1589583584939">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1589392496594" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1587021071383">
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1589583584939" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1589578644569">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587021071383" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1589578644569" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaLearnings$Test__1_.ic" NAME="Test (1) Coverage Results" MODIFIED="1586852929836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
