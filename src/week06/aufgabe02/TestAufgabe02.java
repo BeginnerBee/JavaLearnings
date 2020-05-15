@@ -17,11 +17,12 @@ public class TestAufgabe02 {
     private int toBalance = 200;
     private int toLowerLimit = 20;
     private int toUpperLimit = 220;
+    
+    BankAccount from = new BankAccount(fromBalance, fromLowerLimit, fromUpperLimit);
+    BankAccount to = new BankAccount(toBalance, toLowerLimit, toUpperLimit);
 
     @Test
     public void whenTransactionExceptionThrown_LowerLimitViolationFromAccount_thenAssertionSucceeds() {
-        BankAccount from = new BankAccount(fromBalance, fromLowerLimit, fromUpperLimit);
-        BankAccount to = new BankAccount(toBalance, toLowerLimit, toUpperLimit);
         from.transfer(from, to, 95);
         Assertions.assertEquals(from.getBalance(), fromBalance);
         Assertions.assertEquals(to.getBalance(), toBalance);
@@ -30,8 +31,6 @@ public class TestAufgabe02 {
 
     @Test
     public void whenTransactionExceptionThrown_UpperLimitViolationToAccount_thenAssertionSucceeds() {
-        BankAccount from = new BankAccount(fromBalance, fromLowerLimit, fromUpperLimit);
-        BankAccount to = new BankAccount(toBalance, toLowerLimit, toUpperLimit);
         from.transfer(from, to, 30);
         Assertions.assertEquals(from.getBalance(), fromBalance);
         Assertions.assertEquals(to.getBalance(), toBalance);
@@ -39,8 +38,6 @@ public class TestAufgabe02 {
 
     @Test
     public void whenTransactionSucceeded_thenAssertionSucceeds() {
-        BankAccount from = new BankAccount(fromBalance, fromLowerLimit, fromUpperLimit);
-        BankAccount to = new BankAccount(toBalance, toLowerLimit, toUpperLimit);
         int amount = 10;
         from.transfer(from, to, amount);
         Assertions.assertEquals(from.getBalance(), fromBalance - amount);
@@ -50,16 +47,14 @@ public class TestAufgabe02 {
     @Test
     public void whenNegativeDepositAmountEntered_thenAssertionSucceeds() {
         Exception exception = assertThrows(IllegalArgumentException.class, () -> {
-            BankAccount b = new BankAccount(fromBalance, fromLowerLimit, fromUpperLimit);
-            b.deposit(-10);
+            from.deposit(-10);
         });
     }
 
     @Test
     public void whenNegativeWithdrawAmountEntered_thenAssertionSucceeds() {
         Exception exception = assertThrows(IllegalArgumentException.class, () -> {
-            BankAccount b = new BankAccount(fromBalance, fromLowerLimit, fromUpperLimit);
-            b.withdraw(-10);
+            from.withdraw(-10);
         });
     }
 }
