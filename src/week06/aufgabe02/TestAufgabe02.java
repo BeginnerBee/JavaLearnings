@@ -17,7 +17,7 @@ public class TestAufgabe02 {
     private int toBalance = 200;
     private int toLowerLimit = 20;
     private int toUpperLimit = 220;
-    
+
     BankAccount from = new BankAccount(fromBalance, fromLowerLimit, fromUpperLimit);
     BankAccount to = new BankAccount(toBalance, toLowerLimit, toUpperLimit);
 
